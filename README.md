@@ -18,15 +18,15 @@ I bridge the gap between high-level simulation and real-world deployment. My bac
 
 ### 🚀 Key Projects
 
-#### [Gesture-Based Drone Control](https://github.com/isotupa/drone-gesture-control)
+#### [Gesture-Based Drone Control](https://github.com/isotupa/TFG)
 * Developed a real-time control loop mapping hand landmarks to flight commands.
 * **Stack:** Python, OpenCV, ROS2, Docker.
 
-#### [Neural Network Library from Scratch](https://github.com/isotupa/nn-from-scratch-C)
+#### [Neural Network Library from Scratch](https://github.com/isotupa/nnfsinc)
 * Implemented manual backpropagation and matrix operations in pure C to understand optimization at the metal level.
 * **Stack:** C, Linear Algebra.
 
-#### [Master Thesis: ML Time Series Prediction](https://github.com/isotupa/msc-thesis)
+#### [Master Thesis: ML Time Series Prediction](https://github.com/isotupa/msc-thesis) (Not yet available)
 * Collaborating with **Wahoo Fitness** to benchmark models predicting torque output from noisy sensor data.
 * **Stack:** Python, Pandas, TensorFlow.
 
